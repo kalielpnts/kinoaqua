@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <defs>
+    <linearGradient id="g" x1="6" y1="10" x2="46" y2="54" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#00F5D4"/>
+      <stop offset="1" stop-color="#4F5BD5"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#090D1F"/>
+  <circle cx="26" cy="32" r="20" stroke="url(#g)" stroke-width="3"/>
+  <circle cx="26" cy="22" r="3.6" fill="#0F1633" stroke="url(#g)" stroke-width="1.4"/>
+  <circle cx="35.5" cy="27.5" r="3.6" fill="#0F1633" stroke="url(#g)" stroke-width="1.4"/>
+  <circle cx="35.5" cy="38.5" r="3.6" fill="#0F1633" stroke="url(#g)" stroke-width="1.4"/>
+  <circle cx="26" cy="43" r="3.6" fill="#0F1633" stroke="url(#g)" stroke-width="1.4"/>
+  <circle cx="16.5" cy="38.5" r="3.6" fill="#0F1633" stroke="url(#g)" stroke-width="1.4"/>
+  <circle cx="16.5" cy="27.5" r="3.6" fill="#0F1633" stroke="url(#g)" stroke-width="1.4"/>
+  <circle cx="26" cy="32" r="3" fill="#00F5D4"/>
+  <rect x="45" y="27" width="5" height="10" rx="1.6" fill="url(#g)"/>
+  <polygon points="50,28 64,17 64,47 50,36" fill="#00F5D4" fill-opacity="0.55"/>
+</svg>
